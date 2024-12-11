@@ -1,4 +1,4 @@
-**My_First_Project_on_Power_Bi**
+**My_First_Project_on_Power_BI**
 
 The NexusGoods Store Capstone Project is a comprehensive analysis of e-commerce data aimed at deriving actionable insights to optimize business operations and customer satisfaction. This project leverages Power BI for advanced data visualization and interactive reporting to make insights accessible and impactful.
 
